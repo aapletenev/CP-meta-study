@@ -25,7 +25,7 @@ h = 3
 
 #######START###############
 #options(contrasts = c("contr.sum", "contr.poly")) #Setting contr.sum ensures that categorical variables are tested relative to the overall mean rather than a reference group.
-data = read.csv("CP data - technical.csv")
+data = read.csv("Data for CP meta-analysis - data.csv")
 
 #remove empty rows, by conditioning on Main_epoch columns are empty ("" or NA)
 data %<>% filter(!(is.na(Main.epoch)|Main.epoch == ""))
