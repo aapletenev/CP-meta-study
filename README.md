@@ -1,6 +1,6 @@
 # Choice Probabilities Review: Analysis Replication
 
-This repository contains the core statistical analysis scripts and data underlying our manuscript submitted to *eLife*.
+This repository contains the core statistical analysis scripts and data underlying our manuscript submitted to *eLife*. The preprint could be find here https://www.biorxiv.org/content/10.64898/2026.06.08.730961v1
 
 ---
 
